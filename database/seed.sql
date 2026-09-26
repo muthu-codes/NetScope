@@ -1,0 +1,2 @@
+-- Intentionally empty.
+-- NetScope never inserts fake devices: every row in the database comes from a real scan.
